@@ -4,6 +4,5 @@
   "max-followings": 80,
   "from-notifications": 1,
   "max-followers": 30,
-  "backfill-with-context": 0,
-  "backfill-mentioned-users": 0
+  "backfill-with-context": 0
 }
