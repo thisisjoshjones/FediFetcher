@@ -2,5 +2,8 @@
   "server": "jjo.sh",
   "home-timeline-length": 200,
   "max-followings": 80,
-  "from-notifications": 1
+  "from-notifications": 1,
+  "max-followers": 30,
+  "backfill-with-context": 0,
+  "backfill-mentioned-users": 0
 }
